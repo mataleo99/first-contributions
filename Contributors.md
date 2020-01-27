@@ -1,4 +1,5 @@
 # Contributors
+- Wade Conklin (https://github.com/mataleo99)
 -Mike
 - Dax Patel (https://github.com/letapxad)
 - Mark Foster (https://github.com/markfoster314)
